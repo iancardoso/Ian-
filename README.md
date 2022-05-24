@@ -15,9 +15,7 @@
   <img align="center" alt="Vitor-mysqlServer" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Vitor-HTML" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Vitor-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-PowerBi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Vitor-Csharp" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Vitor-dance" height="350" width="320" src="https://metropolitanafm.com.br/wp-content/uploads/2019/01/gif-menina-dan%C3%A7ando-maisa.gif">
+  
 </div>
 
 ##
