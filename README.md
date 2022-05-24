@@ -2,7 +2,7 @@
 - 🔭 Atualmente estou em busca de emprego  como full stack developer
 - 🌱 Estou estudando React
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Jogador de Basquete em horas vagas
+- ⚡ Fun fact: jogo futebol nas horas vagas  
 
 <div>
   <a href="https://github.com/iancardoso">
@@ -12,19 +12,19 @@
   
   <img align="center" alt="Ian-Teste" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Ian-Linux" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Vitor-mysqlServer" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-PowerBi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Vitor-Csharp" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Vitor-dance" height="350" width="320" src="https://metropolitanafm.com.br/wp-content/uploads/2019/01/gif-menina-dan%C3%A7ando-maisa.gif">
+  <img align="center" alt= height="30" width="50"
+  <img align="center" alt= height="30" width="50" 
+  <img align="center" alt= height="30" width="50"
+  <img align="center" alt= height="30" width="40"
+  <img align="center" alt= height="30" width="50" 
+  <img align="right"  alt= height="350" width="320" 
 </div>
 
 ##
 
 <div>
-  <a href="https://www.instagram.com/xlopes_x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="Twich_tv/xlopesxxx#8003" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "email:vitorlopes758@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-lopes-a183a71b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "email: iansscardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
