@@ -10,14 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancardoso&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <img align="center" alt= height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+ 
   <img align="center" alt="Ian-Linux" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt= height="30" width="50"
-  <img align="center" alt= height="30" width="50" 
-  <img align="center" alt= height="30" width="50"
-  <img align="center" alt= height="30" width="40"
-  <img align="center" alt= height="30" width="50" 
-  <img align="right"  alt= height="350" width="320" 
+
 </div>
 
 ##
