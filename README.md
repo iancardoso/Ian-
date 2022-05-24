@@ -1,23 +1,19 @@
- ### Ola! Eu sou o Vitor Lopes 🙋‍♂️
-- 🔭 Atualmente sou desenvolvedor junior 
+ ### Ola! Eu sou o Ian Cardoso🙋‍♂️
+- 🔭 Atualmente sou Estagiário 
 - 🌱 Estou estudando de tudo um pouco
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Jogador de Basquete em horas vagas
+- ⚡ Fun fact: Futebol
 
 <div>
-  <a href="https://github.com/Vitor-Lopes-Rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-lopes-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-lopes-Rodrigues&layout=compact&langs_count=7&theme=dark">
+  <a href="https://github.com/iancardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iancardoso
+&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancardoso&layout=compact&langs_count=7&theme=dark">
 </div>
   
-  <img align="center" alt="Vitor-mysql" height="30" width="50"  src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Vitor-Figma" height="30" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Vitor-mysqlServer" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-PowerBi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Vitor-Csharp" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Vitor-dance" height="350" width="320" src="https://metropolitanafm.com.br/wp-content/uploads/2019/01/gif-menina-dan%C3%A7ando-maisa.gif">
+  <img align="center" alt="ian-Linux" height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
+  <img align="center" alt="Ian-Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+ 
 </div>
 
 ##
