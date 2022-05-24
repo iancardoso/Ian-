@@ -11,7 +11,7 @@
 </div>
   
  
-  <img align="center" alt="Ian-Linux" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Ian-Linux" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 </div>
 
