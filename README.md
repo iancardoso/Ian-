@@ -2,7 +2,7 @@
 - 🔭 Atualmente sou Estagiário
 - 🌱 Estou estudando de tudo um pouco
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Jogador de Futebol em horas vagas(Avante Corinthians)
+- ⚡ Fun fact: Jogador de Futebol em horas vagas.
 
 <div>
   <a href="https://github.com/iancardoso">
